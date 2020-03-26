@@ -1,0 +1,3 @@
+/home/vladimir/CLionProjects/ALGO/Task5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vladimir/CLionProjects/ALGO/Task5/cmake-build-debug/CMakeFiles/Task5.dir
+/home/vladimir/CLionProjects/ALGO/Task5/cmake-build-debug/CMakeFiles/edit_cache.dir

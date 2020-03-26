@@ -1,0 +1,3 @@
+/home/vladimir/CLionProjects/ALGO_2mod_T2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vladimir/CLionProjects/ALGO_2mod_T2/cmake-build-debug/CMakeFiles/ALGO_2mod_T2.dir
+/home/vladimir/CLionProjects/ALGO_2mod_T2/cmake-build-debug/CMakeFiles/edit_cache.dir

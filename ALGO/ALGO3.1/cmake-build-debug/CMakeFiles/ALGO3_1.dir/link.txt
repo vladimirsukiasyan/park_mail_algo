@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ALGO3_1.dir/main.cpp.o  -o ALGO3_1 

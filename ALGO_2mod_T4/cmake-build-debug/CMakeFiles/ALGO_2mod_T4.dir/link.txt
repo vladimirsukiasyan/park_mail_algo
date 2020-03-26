@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ALGO_2mod_T4.dir/main.cpp.o  -o ALGO_2mod_T4 
